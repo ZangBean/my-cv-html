@@ -20,7 +20,7 @@ Dự án tạo CV cá nhân bằng HTML thuần.
 - `<a href="mailto:..." >` để tạo email liên hệ.
 - `<a href="tel:..." >` để tạo link gọi điện.
 - `<img src="..." alt="..." />` để chèn ảnh đại diện.
-- 
+  
 ---
 
 ## 📁 Cấu trúc file
